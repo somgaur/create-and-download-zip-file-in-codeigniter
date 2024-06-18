@@ -1,7 +1,7 @@
-Author: Yogesh singh
-Author URL: https://makitweb.com/
-Author Email: makitweb@gmail.com
-Tutorial Link: https://makitweb.com/create-and-download-zip-file-in-codeigniter/
+Author: Somdev Gaur
+Author URL: localhost
+Author Email: NA
+Tutorial Link: 
 
 Instructions - 
 
